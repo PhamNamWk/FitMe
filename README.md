@@ -18,17 +18,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 - [Laragon](https://laragon.org/download) ver 6.0 or higher
 - [Git](https://git-scm.com/downloads)
 ## How to run
-**Step 1** : Mở Laragon và bấm start để chạy -> Sau khi laragon đã chạy, chọn vào Root để mở thư mục gốc có tên là www.
- ![Cách mở laragon](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759217978/Screenshot_2025-09-25_111404_mnbmhh.png) 
-**Step 2** : Clone project từ github về bên trong thư mục www của laragon  bằng git bash.
-**Step 3** : Mở thư mục dự án bên trong visual studio code.
-**Step 4** : Mở terminal và chạy các câu lệnh sau để cài đặt môi trường bên phía Backend.
-```bash
-cd BE
 
-
-
-```
 ## Feature.
 ## Technologies.
 - **Frontend:**
@@ -42,6 +32,9 @@ cd BE
   - Laravel (PHP web framework)
   - JWT (JSON Web Token for authentication) 
   - RESTful API (for client-server communication)
+  - Pusher (real-time notifications)
+  - Mail Service (email sending)
+  - Cloudinary (image & video storage/management)
 - **Database:** MySQL 
 - **Payment Gateway:** VNPay API
 - **AI & Chatbot:** AI gemini chatbot
@@ -54,6 +47,7 @@ cd BE
   - Discord (team communication)
   - ClickUp (project management & task tracking)
 ## Interface.
+### Client
 - **Home Page**
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221854/Screenshot_2025-09-30_152842_kzvyz6.png)
 
@@ -66,8 +60,21 @@ cd BE
 - **Checkout Page**
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221797/Screenshot_2025-09-30_154014_thx0qx.png)
 ### Admin
+- **Dashboard Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223258/Screenshot_2025-09-30_155926_xsankm.png)
 
-### Client
+- **User Management Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223258/Screenshot_2025-09-30_160139_danzo4.png)
+
+- **Order Management Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223257/Screenshot_2025-09-30_160044_jvgvih.png)
+
+- **Product Management Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223257/Screenshot_2025-09-30_160008_dhgzq4.png)
+
+- **Category Management Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223256/Screenshot_2025-09-30_160112_jp3lqj.png)
+
 ## Collaborator.
 - [Cường Curly](https://github.com/curly1210) - Leader, FE Developer
 - [Phạm Tiến](https://github.com/PhamTien-git) - FE Developer
