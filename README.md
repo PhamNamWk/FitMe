@@ -54,6 +54,17 @@ cd BE
   - Discord (team communication)
   - ClickUp (project management & task tracking)
 ## Interface.
+- **Home Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221854/Screenshot_2025-09-30_152842_kzvyz6.png)
+
+- **Product List**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221798/Screenshot_2025-09-30_152910_xrnfek.png)
+
+- **Order Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221799/Screenshot_2025-09-30_154137_qdiqox.png)
+
+- **Checkout Page**
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759221797/Screenshot_2025-09-30_154014_thx0qx.png)
 ### Admin
 
 ### Client
