@@ -30,16 +30,39 @@ cd BE
 
 ```
 ## Feature.
-## Technologie.
+## Technologies.
+- **Frontend:**
+  - React.js (for building user interface)
+  - HTML5, CSS3, JavaScript (core web technologies)
+  - Ant Design (UI component library)
+  - TailwindCSS   (styling)
 
-## Interfac.
+- **Backend:**
+    - PHP (server-side scripting language)
+  - Laravel (PHP web framework)
+  - JWT (JSON Web Token for authentication) 
+  - RESTful API (for client-server communication)
+- **Database:** MySQL 
+- **Payment Gateway:** VNPay API
+- **AI & Chatbot:** AI gemini chatbot
+- **AI phòng thử đồ:** Kolors Virtual Try-On in the Wild
+- **Tools & Others:**
+  - Git & GitHub (version control)
+  - Visual Studio Code (IDE)
+  - Postman (API testing)
+  - Figma (UI/UX design & prototyping)
+  - Discord (team communication)
+  - ClickUp (project management & task tracking)
+## Interface.
+### Admin
 
+### Client
 ## Collaborator.
-- [Cường Curly](https://github.com/curly1210) - Leader
-- [Phạm Tiến](https://github.com/usernameB) - FE Developer
-- [Việt](https://github.com/usernameC) - FE Developer
-- [Phạm Nam](https://github.com/usernameA) - BE Developer
+- [Cường Curly](https://github.com/curly1210) - Leader, FE Developer
+- [Phạm Tiến](https://github.com/PhamTien-git) - FE Developer
+- [Việt](https://github.com/viet259) - FE Developer
+- [Phạm Nam](https://github.com/PhamNamWk) - BE Developer
 - [Trịnh Bảo](https://github.com/Trinh-Gia-Bao-0510B) - BE Developer
-- [Gia Bảo](https://github.com/usernameC) -  BE Developer
-- [Đăng Bảo](https://github.com/usernameC) -  BE Developer
+- [Gia Bảo](https://github.com/NGB16-Coder) -  BE Developer
+- [Đăng Bảo](https://github.com/trinhbao31) -  BE Developer
 ## License
