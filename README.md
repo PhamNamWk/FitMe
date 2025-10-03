@@ -20,6 +20,20 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 ## How to run
 
 ## Feature.
+### Chatbot
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468482/1003_2_dtiqer.gif)
+### Reward Points System
+- Each time an order is completed, customers will receive reward points calculated based on the order value. Once the accumulated points reach the required threshold, the account will be upgraded to a higher tier. At each tier, customers will enjoy corresponding discount benefits when placing orders on the website.
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462987/Screenshot_2025-10-03_095357_kcjmqy.png)
+
+### Pay online using VNPay
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468476/vnpay_nr059b.gif)
+### AI virtual fitting room
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468485/1003_1_opys9x.gif)
+
+### E-wallet
+When a return order is successfully processed, the amount will be refunded to the user's e-wallet. The user can then submit a withdrawal request to transfer the money to their own account.
+![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462988/Screenshot_2025-10-03_095437_lgtoe3.png)
 ## Technologies.
 - **Frontend:**
   - React.js (for building user interface)
