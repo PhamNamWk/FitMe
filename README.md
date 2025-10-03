@@ -37,7 +37,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468485/1003_1_opys9x.gif)
 
 ### E-wallet
-When a return order is successfully processed, the amount will be refunded to the user's e-wallet. The user can then submit a withdrawal request to transfer the money to their own account.
+- When a return order is successfully processed, the amount will be refunded to the user's e-wallet. The user can then submit a withdrawal request to transfer the money to their own account.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462988/Screenshot_2025-10-03_095437_lgtoe3.png)
 ***
 ## Technologies.
