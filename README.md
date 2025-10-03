@@ -4,7 +4,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 - Pay online using VNPay
 - Find your desired products using a chatbot
 - Try on clothes with an AI virtual fitting room
-***
+
 ## Getting Started
 ### System Requirements
 - Node.js version 10.9.0 or higher
@@ -17,10 +17,9 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 - [Visual studio code](https://code.visualstudio.com/Download)
 - [Laragon](https://laragon.org/download) ver 6.0 or higher
 - [Git](https://git-scm.com/downloads)
-***
+
 ## How to run
 
-***
 ## Feature.
 ### Chatbot
 - The website integrates a Gemini chatbot that helps users quickly choose products that match their needs and directs them to the detailed page of that product
@@ -39,7 +38,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 ### E-wallet
 - When a return order is successfully processed, the amount will be refunded to the user's e-wallet. The user can then submit a withdrawal request to transfer the money to their own account.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462988/Screenshot_2025-10-03_095437_lgtoe3.png)
-***
+
 ## Technologies.
 - **Frontend:**
   - React.js (for building user interface)
@@ -66,7 +65,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
   - Figma (UI/UX design & prototyping)
   - Discord (team communication)
   - ClickUp (project management & task tracking)
- ***
+
 ## Interface.
 ### Client
 - **Home Page**
@@ -95,7 +94,7 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 
 - **Category Management Page**
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223256/Screenshot_2025-09-30_160112_jp3lqj.png)
----
+
 ## Collaborator.
 - [Cường Curly](https://github.com/curly1210) - Leader, FE Developer
 - [Phạm Tiến](https://github.com/PhamTien-git) - FE Developer
