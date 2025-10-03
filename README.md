@@ -19,7 +19,8 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 - [Git](https://git-scm.com/downloads)
 
 ## How to run
-
+B1: Download [start-kit](https://drive.google.com/file/d/1aPjHNOwejzXxEh7ik9lf5UvF-wK5fQVc/view?usp=sharing)
+B2 : Watch the instruction video
 ## Feature.
 ### Chatbot
 - The website integrates a Gemini chatbot that helps users quickly choose products that match their needs and directs them to the detailed page of that product
