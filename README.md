@@ -17,23 +17,29 @@ FitMe is an e-commerce website that simulates a branded clothing shop in the mar
 - [Visual studio code](https://code.visualstudio.com/Download)
 - [Laragon](https://laragon.org/download) ver 6.0 or higher
 - [Git](https://git-scm.com/downloads)
+***
 ## How to run
 
+***
 ## Feature.
 ### Chatbot
+- The website integrates a Gemini chatbot that helps users quickly choose products that match their needs and directs them to the detailed page of that product
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468482/1003_2_dtiqer.gif)
 ### Reward Points System
 - Each time an order is completed, customers will receive reward points calculated based on the order value. Once the accumulated points reach the required threshold, the account will be upgraded to a higher tier. At each tier, customers will enjoy corresponding discount benefits when placing orders on the website.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462987/Screenshot_2025-10-03_095357_kcjmqy.png)
 
 ### Pay online using VNPay
+- Our website features seamless online payment with VNPay, enabling users to conveniently pay for their orders using credit cards directly on the site. This integration ensures a smooth shopping experience with fast, secure, and reliable transactions.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468476/vnpay_nr059b.gif)
-### AI virtual fitting room
+### AI virtual fitting room.
+- The website features a virtual fitting room where customers can upload their photos and let AI overlay the shop’s clothing onto them. This gives customers a clearer perspective and helps them make more confident purchasing decision. 
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468485/1003_1_opys9x.gif)
 
 ### E-wallet
 When a return order is successfully processed, the amount will be refunded to the user's e-wallet. The user can then submit a withdrawal request to transfer the money to their own account.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759462988/Screenshot_2025-10-03_095437_lgtoe3.png)
+***
 ## Technologies.
 - **Frontend:**
   - React.js (for building user interface)
@@ -60,6 +66,7 @@ When a return order is successfully processed, the amount will be refunded to th
   - Figma (UI/UX design & prototyping)
   - Discord (team communication)
   - ClickUp (project management & task tracking)
+ ***
 ## Interface.
 ### Client
 - **Home Page**
@@ -88,7 +95,7 @@ When a return order is successfully processed, the amount will be refunded to th
 
 - **Category Management Page**
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759223256/Screenshot_2025-09-30_160112_jp3lqj.png)
-
+---
 ## Collaborator.
 - [Cường Curly](https://github.com/curly1210) - Leader, FE Developer
 - [Phạm Tiến](https://github.com/PhamTien-git) - FE Developer
