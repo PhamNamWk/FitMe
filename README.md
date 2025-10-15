@@ -34,7 +34,8 @@ B2: Watch the instruction video : [Link]()
 - Our website features seamless online payment with VNPay, enabling users to conveniently pay for their orders using credit cards directly on the site. This integration ensures a smooth shopping experience with fast, secure, and reliable transactions.
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468476/vnpay_nr059b.gif)
 ### AI virtual fitting room.
-- The website features a virtual fitting room where customers can upload their photos and let AI overlay the shop’s clothing onto them. This gives customers a clearer perspective and helps them make more confident purchasing decision. 
+- The website features a virtual fitting room where customers can upload their photos and let AI overlay the shop’s clothing onto them. This gives customers a clearer perspective and helps them make more confident purchasing decision .
+- 
 ![](https://res.cloudinary.com/dx4xpn6xe/image/upload/v1759468485/1003_1_opys9x.gif)
 
 ### E-wallet
